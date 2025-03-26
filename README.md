@@ -13,5 +13,5 @@
 
 - Ces repositories regroupent divers projets liés au développement, au déploiement et à l'intégration du machine learning.
 
-- "L'intelligence artificielle n'est pas seulement un outil, c'est une nouvelle façon de penser."
-- 
+***L'intelligence artificielle n'est pas seulement un outil, c'est une nouvelle façon de penser.***
+
