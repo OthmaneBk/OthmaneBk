@@ -1,6 +1,6 @@
 # Bonjour tout le monde, monde!
 # À propos de moi
-- Je m'appel Othmane Kella Bennani, étudiant en ingénierie passionné par l'intersection de la technologie et de la résolution de problèmes complexes. 
+- Je m'appelle Othmane Kella Bennani, étudiant en ingénierie passionné par l'intersection de la technologie et de la résolution de problèmes complexes. 
 - Je me spécialise dans l'intelligence artificielle et la science des données, avec une solide expérience en gestion de projets informatiques.
 
 # Expertise
