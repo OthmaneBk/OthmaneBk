@@ -10,7 +10,7 @@
 - Machine Learning: Développement de modèles prédictifs et d'algorithmes d'apprentissage automatique
 - Deep Learning: Application de réseaux neuronaux pour l'optimisation de performances
 
-
+# Porjets
 - Ces repositories regroupent divers projets liés au développement, au déploiement et à l'intégration du machine learning.
 
 
