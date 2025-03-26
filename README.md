@@ -17,4 +17,4 @@
 
 
 
-***L'intelligence artificielle n'est pas seulement un outil, c'est une nouvelle façon de penser.**
+***L'intelligence artificielle n'est pas seulement un outil, c'est une nouvelle façon de penser.***
